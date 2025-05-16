@@ -41,6 +41,8 @@ ai-feedback-platform/
 ├── tailwind.config.js  # Tailwind CSS configuration
 └── tsconfig.json       # TypeScript configuration
 
+---
+
 
 ## Installation
 
