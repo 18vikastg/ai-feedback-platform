@@ -30,7 +30,7 @@ An AI-powered platform designed to collect, analyze, and provide actionable insi
 
 
 ai-feedback-platform/
-├── .bolt/                   # Configuration files
+                             # Configuration files
 ├── public/                  # Static assets
 ├── src/                     # Source code
 │   ├── components/          # Reusable components
