@@ -47,11 +47,11 @@ ai-feedback-platform/
 
 ---
 
-## ⚙️ Installation
+⚙️ Installation
 
-### 1. Clone the repository
+1. Clone the repository
 
-```bash
+
 git clone https://github.com/18vikastg/ai-feedback-platform.git
 cd ai-feedback-platform
 ````
