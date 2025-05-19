@@ -45,7 +45,7 @@ ai-feedback-platform/
 
 ````
 
----
+
 
 ⚙️ Installation
 
